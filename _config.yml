@@ -1,0 +1,28 @@
+name: Paige Holland Studio- Paintings
+favicon: null
+layout_spectrum: 0.9754237758461386
+typography_spectrum: 0.8064858431462198
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9725444852374494
+  lightness: 0.013134359149262309
+  saturation: 0.8673060822766274
+  rhythmicContrast: 0.3200473266188055
+purpose: []
